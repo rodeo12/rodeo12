@@ -1,43 +1,43 @@
 <h2 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Bhavya Khatri 💻! Glad to see you here!
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Mayank Bhandari 💻! Glad to see you here!
 </h2>
 <h3 align="center">An aspiring Full-Stack Web Developer with skills in Node js Backend Devlopment.</h3>
 
 <hr>
 
-Hello ! My name is Bhavya Khatri and I am a Full Stack Node Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with NODE stack and programming languages like JavaScript for web development as well as Backend Developer. Looking forward to some interesting and challenging opportunities.
+Hello ! My name is Mayank Bhandari and I am a Full Stack Node Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with NODE stack and programming languages like JavaScript for web development as well as Backend Developer. Looking forward to some interesting and challenging opportunities.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center" color:"red">
      <a>
-          <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Bhavya Khatri 🏽; I am a Full-stack%20Node%20developer 🏻‍💻; Interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+          <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Mayank Bhandari 🏽; I am a Full-stack%20Node%20developer 🏻‍💻; Interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
      
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhavya022&label=Profile%20views&color=0e75b6&style=flat" alt="bhavya022" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodeo12&label=Profile%20views&color=0e75b6&style=flat" alt="rodeo12" /> </p>
 <img align="right" alt="Coding" width="400"  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently pursuing **Full Stack Node Development**
 
--    Checkout my **[Resume](https://drive.google.com/file/d/1a5Q7nJGDmqI7JP7olVVRjFxbmAhAvWht/view?usp=share_link)**
+-    Checkout my **[Resume](https://drive.google.com/file/d/1VkqJVuaP1povXSRrKZIyy9tXK72Gz5lF/view?usp=drive_link)**
 
 - 🌱 I’m currently learning **NODE stack**
 
-- 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/bhavya-khatri-aa887a198/)**
+- 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/mayank-bhandari-b29a76100)**
 
-- 📫 Reach me on **dnd88778@gmail.com**
+- 📫 Reach me on **mayankthakur1294@gmail.com**
 
 - 💬 ask me about anything, i am happy to help
 
 - ⚡ Fun Fact: Imagination is more important than knowledge
 
-- 💬 Have a look at my [Portfolio](https://Bhavya022.github.io/)
+- 💬 Have a look at my [Portfolio](https://rodeo12.github.io/)
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px" marginBottom="4px"> </h2>
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-khatri-aa887a198/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://leetcode.com/dnd88778/) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/dnd88778/) [![!PortFolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://Bhavya022.github.io/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-bhandari-b29a76100) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)] [![!PortFolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rodeo12.github.io/)
 
 <h2 align="left">⚡ Tech Stack</h2>
 <table align="center">
@@ -246,22 +246,22 @@ Hello ! My name is Bhavya Khatri and I am a Full Stack Node Developer, passionat
 ## 📊 My Github Stats
 
 <!-- github status  -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bhavya022" alt="Bhavya Khatri" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodeo12" alt="Mayank Bhandari" /></a> </p>
 <div align="center" style="display: flex; gap:50px">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bhavya022&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rodeo122&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya022&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodeo12&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
 
 </div>
 <div align="center" style="display: flex; ">
  
-<img src="https://streak-stats.demolab.com?user=Bhavya022&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
+<img src="https://streak-stats.demolab.com?user=rodeo12&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
 
 </div>
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Bhavya Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Bhavya022&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="Mayank Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=rodeo12&theme=react-dark&hide_border=true" /></a>
 
 <br>
 <div align="center">
@@ -272,5 +272,5 @@ Hello ! My name is Bhavya Khatri and I am a Full Stack Node Developer, passionat
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Bhavya022}/count.svg" /></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rodeo12}/count.svg" /></p>
 <br></div>

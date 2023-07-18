@@ -5,7 +5,7 @@
 <h3 align="center">An aspiring Full-Stack Web Developer with skills in Node js Backend Devlopment.</h3>
 
 <hr>
-<h2
+
 Hello ! My name is Mayank Bhandari and I am a Full Stack Node Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with NODE stack and programming languages like JavaScript for web development as well as Backend Developer. Looking forward to some interesting and challenging opportunities.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
